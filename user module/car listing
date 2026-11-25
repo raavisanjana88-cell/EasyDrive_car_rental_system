@@ -1,0 +1,15 @@
+<div class="cars">
+  <h2>Available Cars</h2>
+
+  <div class="car">
+    <h3>Hyundai i20</h3>
+    <p>₹1500 / Day</p>
+    <button>Book Now</button>
+  </div>
+
+  <div class="car">
+    <h3>Honda City</h3>
+    <p>₹2000 / Day</p>
+    <button>Book Now</button>
+  </div>
+</div>

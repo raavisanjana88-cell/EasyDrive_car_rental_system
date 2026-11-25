@@ -1,0 +1,11 @@
+<div class="admin">
+  <h2>Admin Dashboard</h2>
+
+  <button>Inventory</button>
+  <button>Bookings</button>
+  <button>Maintenance</button>
+
+  <p>Total Cars: 10</p>
+  <p>Available: 7</p>
+  <p>Booked: 3</p>
+</div>

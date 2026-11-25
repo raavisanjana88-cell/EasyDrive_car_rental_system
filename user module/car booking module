@@ -1,0 +1,14 @@
+<div class="booking">
+  <h2>Car Booking</h2>
+
+  <select id="car">
+    <option>Hyundai i20</option>
+    <option>Honda City</option>
+  </select>
+
+  <input id="days" type="number" placeholder="Rental Days">
+
+  <button onclick="book()">Book Now</button>
+
+  <p id="result"></p>
+</div>

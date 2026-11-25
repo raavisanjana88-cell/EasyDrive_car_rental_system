@@ -1,0 +1,14 @@
+<div class="payment">
+  <h2>Payment</h2>
+
+  <select id="method">
+    <option>UPI</option>
+    <option>Credit/Debit Card</option>
+    <option>Cash on Pickup</option>
+  </select>
+
+  <input id="amount" placeholder="Amount">
+  <button onclick="pay()">Pay Now</button>
+
+  <p id="result"></p>
+</div>
